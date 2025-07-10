@@ -262,12 +262,12 @@ async function main() {
     console.log(e.target);
     if (e.target.src.includes("volume.svg")) {
       currentSong.volume = 0;
-      e.target.src = e.target.src.replace = ("volume.svg", "mute.svg");
+      e.target.src = e.target.src.replace("volume.svg", "mute.svg");
       document
         .querySelector(".range")
         .getElementsByTagName("input")[0].value = 0;
     } else {
-      e.target.src = e.target.src.replace = ("mute.svg", "volume.svg");
+      e.target.src = e.target.src.replace("mute.svg", "volume.svg");
       currentSong.volume = 0.1;
       document
         .querySelector(".range")
