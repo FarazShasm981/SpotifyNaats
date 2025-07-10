@@ -18,7 +18,7 @@ function secondsToMinutesSeconds(seconds) {
 }
 async function getSongs(folder) {
   currFolder = folder;
-  let a = await fetch(`http://127.0.0.1:5500/${currFolder}/`);
+  let a = await fetch(`/${currFolder}/`);
   let response = await a.text();
 
   let div = document.createElement("div");
@@ -74,7 +74,7 @@ const playMusic = (track, pause = false) => {
 };
 
 async function DisplayAlbums() {
-  let res = await fetch(`http://127.0.0.1:5500/songs/`);
+  let res = await fetch(`/songs/`);
   let html = await res.text();
 
   let div = document.createElement("div");
@@ -101,7 +101,7 @@ async function DisplayAlbums() {
     // if (folder.toLowerCase() === "songs") return;
     try {
       let infoRes = await fetch(
-        `http://127.0.0.1:5500/songs/${folder}/info.json`
+        `/songs/${folder}/info.json`
       );
       if (!infoRes.ok) throw new Error("Info.json Not Found");
 
