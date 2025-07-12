@@ -1,0 +1,124 @@
+[
+  {
+    "folder": "album1",
+    "title": "Mp3 Mix Naats",
+    "Description": "Different Naat Reciter's Naats",
+    "image": "cover.jpg",
+    "songs": [
+      "kare-chara-sazi-ziarat-kisi-ki.mp3",
+      "madinay-ka-safar.mp3",
+      "mere-maula-karam-ho-karam.mp3",
+      "qaseeda-burda-shareef.mp3",
+      "welcome-welcome-mustafa.mp3"
+    ]
+  },
+  {
+    "folder": "album2",
+    "title": "New Naats Collection",
+    "Description": "Collections of Naats from honorable Naat Reciters",
+    "image": "cover.jpg",
+    "songs": [
+      "aagae-pyare-nabi.mp3",
+      "hasbi-rabbi.mp3",
+      "noori-mehfil-pe-chadar.mp3",
+      "tu-kuja-mann-kuja.mp3",
+      "warafana-laka-zikrak.mp3"
+    ]
+  },
+  {
+    "folder": "Asad Raza Attari",
+    "title": "Asad Raza Attari",
+    "Description": "New Naats of Asad Raza Attari",
+    "image": "cover.jpg",
+    "songs": [
+      "ata-kardo-madine-ki-ijazat-ya-rasool-allah.mp3",
+      "chal-chaliye-madine.mp3",
+      "door-ae-dil-rahe-madine-se.mp3",
+      "karbala-k-janisaron-ko-salam.mp3",
+      "madina-yaad-karlena.mp3",
+      "mein-lajpalan-de.mp3",
+      "rehte-hain-mere-dil-me.mp3",
+      "uthi-nazar-to.mp3",
+      "ya-illahi.mp3"
+    ]
+  },
+  {
+    "folder": "Ghulam Mustafa Qadri",
+    "title": "Ghulam Mustafa Qadri",
+    "Description": "New Naat Album of Ghulam Mustafa Qadri for You",
+    "image": "cover.jpg",
+    "songs": [
+      "aasiyon-ko-dar-tumhara-mil-gaya.mp3",
+      "ali-mola-ali-dam-dam.mp3",
+      "jabeen-meri-ho-sang-e-dar-tumhara-ya-rasool-allah.mp3",
+      "mujh-pe-bhi-chasme-karam.mp3",
+      "qaseeda-burda-sharif.mp3",
+      "rok-leti-hay-aapki-nisbat.mp3",
+      "sahara-chahiye-sarkar.mp3",
+      "shehar-e-madina.mp3",
+      "woh-mera-nabi-hai.mp3"
+    ]
+  },
+  {
+    "folder": "Hafiz Ahmed Raza Qadri",
+    "title": "Hafiz Ahmed Raza Qadri",
+    "Description": "New Naats for You by Hafiz Ahmed Raza Qadri",
+    "image": "cover.jpg",
+    "songs": [
+      "aaya-hai-tera-deewana.mp3",
+      "behr-e-deedar-mushtaq-hai-har-nazar.mp3",
+      "janam-fida-e-haideri.mp3",
+      "kehti-hai-ye-phoolon-ki.mp3",
+      "khaak-mujh-mein-kamal.mp3",
+      "lajpal-nabi-mere.mp3",
+      "madine-ka-safar-hai.mp3",
+      "mere-aqa-mujhe-tanha-nahi-rehne-detey.mp3",
+      "sar-e-lamakan-se-talab-hui.mp3",
+      "tajdar-e-haram.mp3"
+    ]
+  },
+  {
+    "folder": "Hafiz Ahsan Qadri",
+    "title": "Hafiz Ahsan Qadri",
+    "Description": "New Naats for You by Hafiz Ahsan Qadri",
+    "image": "cover.jpg",
+    "songs": [
+      "ae-saba-mustafa-se-keh-dena.mp3",
+      "huzoor-meri-to-sari-bahar.mp3",
+      "tui-ghaffar-ya-allah.mp3",
+      "zahra-ky-bacho-ka.mp3"
+    ]
+  },
+  {
+    "folder": "Owais Raza Qadri",
+    "title": "Alhaaj-Owais Raza Qadri",
+    "Description": "New Naats for You by Owais Raza Qadri",
+    "image": "cover.jpg",
+    "songs": [
+      "jidhar-dekhoon-madine-ka-haram-ho.mp3",
+      "lajpal-nabi-mere-dardan-di-dawa-dena.mp3",
+      "nikla-chand-hai.mp3",
+      "noor-se-apne-sarwar-alam.mp3",
+      "qaseeda-e-meraj.mp3",
+      "sair-e-gulshan-kon-dekhe-dashte-taiba-chor-kar.mp3",
+      "wah-kiya-judo-karam-hai.mp3",
+      "woh-suey-lala-zaar-phirte-hain.mp3",
+      "zarre-jhar-kar-teri-paizaron-ke.mp3"
+    ]
+  },
+  {
+    "folder": "Zohaib Ashrafi",
+    "title": "Zohaib Ashrafi",
+    "Description": "New Naats for You by Zohaib Ashrafi",
+    "image": "cover.jpg",
+    "songs": [
+      "main-banda-e-aasi-hoon.mp3",
+      "mera-hussain.mp3",
+      "nabi-ka-lab-par-joh-zikr.mp3",
+      "pohancho-dar-e-sarkar-pe.mp3",
+      "woh-mera-nabi.mp3",
+      "ya-illahi-phir-dikhade.mp3",
+      "ya-muhammad-nigahe-karam-kijiye.mp3"
+    ]
+  }
+]
